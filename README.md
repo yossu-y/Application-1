@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 hoge
+
+休憩
